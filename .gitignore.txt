@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+.vscode/
+.venv/
+*.log
+build/
+dist/
+*.spec
